@@ -23,6 +23,7 @@ O sistema utiliza uma **base de conhecimento**, um **motor de inferência** e um
 
 ```
 📂 sistema-trilha-prolog
+ ┣ 📜 codigo_completo        
  ┣ 📜 base_conhecimento.pl   # Fatos: trilhas, perfis e perguntas
  ┣ 📜 motor.pl               # Regras: cálculo de pontuação e recomendação
  ┣ 📜 interface.pl           # Interação com o usuário e fluxo principal
