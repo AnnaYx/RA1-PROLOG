@@ -133,7 +133,7 @@ Esses arquivos permitem testar automaticamente o comportamento do sistema para d
 | Nome | Usuário GitHub |
 |------|----------------|
 | Victor Valerio Fadel     | GitHub: (https://github.com/VictorFadel06) |
-| Anna Bosquilia Navarro   | GitHub: (https://github.com/usuario2) |
+| Anna Bosquilia Navarro   | GitHub: (https://github.com/AnnaYx) |
 | Nicole Pereira Guarnieri | GitHub: (https://github.com/nick11nic) |
 
 
