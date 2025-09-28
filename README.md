@@ -12,6 +12,7 @@ O sistema utiliza uma **base de conhecimento**, um **motor de inferência** e um
 
 - Implementar um sistema especialista capaz de:
   - Interagir com o usuário (modo interativo);
+  - Modo de teste;
   - Fazer perguntas sobre aptidões e interesses;
   - Utilizar regras de inferência para recomendar trilhas;
   - Exibir um ranking com **pontuações** e **justificativas**;
